@@ -8,7 +8,7 @@ path_prefix="src"
 
 # GitHub committer info (name + email)
 git_user_name="New Release bot"
-git_user_email="hello+retypeapp-docker-images@object.net"
+git_user_email="hello+retypeapp-docker-images@retype.com"
 
 dh_org="retypeapp"
 
